@@ -1,5 +1,5 @@
-# dio.desafioGitHub
-## Desafio de projeto DIO Git e GitHub
+# Desafio de Git e GitHub 
+## Projeto: *Padawan*
 
 ### Link útil para estudo de sintaxes do Markdown:
 

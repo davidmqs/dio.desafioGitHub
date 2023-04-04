@@ -1,1 +1,3 @@
-"Essa pasta e esse documento foram criados para teste da reação do Git."
+"Essa pasta e esse documento foram criados para teste de reação do Git."
+
+Teste secundário 

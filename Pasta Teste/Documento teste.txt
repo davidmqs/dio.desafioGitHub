@@ -9,7 +9,10 @@ Início do curso introdutório HTML: https://lms.ev.org.br/mpls/Web/Portal/Main/
 Metas para amanhã:
 
 * Terminar o curso de HTML 
-* Praticar o HTML 
+* Praticar o HTML
+* Praticar GIT
+
+
 
 ===================================================================================
 

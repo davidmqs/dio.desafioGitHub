@@ -1,5 +1,16 @@
-"Essa pasta e esse documento foram criados para teste de reação do Git."
+04/04/2023
 
-Teste secundário 
+Início do curso introdutório HTML: https://lms.ev.org.br/mpls/Web/Portal/Main/HomeModule.aspx
 
-CHECK 
+(Surpreso. Parece mais simples do que eu imaginava.
+"Ventos frescos trazem chuvas fortes.")
+
+
+Metas para amanhã:
+
+* Terminar o curso de HTML 
+* Praticar o HTML 
+
+===================================================================================
+
+
